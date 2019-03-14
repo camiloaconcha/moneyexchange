@@ -1,0 +1,17 @@
+@import "./../sass/styles.scss";
+
+.footer {
+  height: 180px;
+  width: 100%;
+  background-color: $white;
+}
+@include for-size(phone){
+  .footer{
+    height: 120px;
+  }
+}
+@include for-size(desktop){
+  .footer{
+    
+  }
+}
