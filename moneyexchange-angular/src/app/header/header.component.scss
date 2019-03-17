@@ -1,0 +1,21 @@
+@import "./../sass/colors";
+@import "./../sass/mixins";
+
+.header {
+    width: 100%;
+    background-color: $white;
+    margin:0;
+    height:180px;
+  }
+@include for-size(desktop) {
+  .header {
+    height: 180px;
+  }
+}
+
+@include for-size(phone) {
+    .header {
+      height: 120px;
+    }
+}
+  
