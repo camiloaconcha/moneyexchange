@@ -1,9 +1,9 @@
 import React from "react";
-import CurrencyExchange from "../CurrencyExchange";
+import CurrencyExchanger from "../CurrencyExchanger";
 
 const AppContainer = () => (
   <div className="container">
-    <CurrencyExchange />
+    <CurrencyExchanger />
   </div>
 );
 

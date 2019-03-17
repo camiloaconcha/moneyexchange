@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about currency exchange initialy developed for moneyxchange.io by @camiloaconcha it was built using
+
+-ReactJS
+-SaSS
+-Babel
+-Yarn
+-Npm
 
 ## Available Scripts
 
