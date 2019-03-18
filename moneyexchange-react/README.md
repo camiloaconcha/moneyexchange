@@ -1,13 +1,14 @@
 This project is about currency exchange initialy developed for moneyxchange.io by @camiloaconcha it was built using
-for running this project before you should run 
-
-### `npm install`
 
 -ReactJS
 -SaSS
 -Babel
 -Yarn
 -Npm
+
+for running this project before you should run 
+
+### `npm install`
 
 ## Available Scripts
 
